@@ -9,10 +9,6 @@
 # production
 /build
 
-#private data
-!/privatedata/.gitkeep
-/privatedata/*
-
 # misc
 .DS_Store
 .env.local
